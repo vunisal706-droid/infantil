@@ -1,6 +1,6 @@
 // Capitulín Infantil — red primero: siempre llega la última versión publicada;
 // la caché solo se usa si no hay conexión.
-const CACHE = 'capitulin-infantil-v2';
+const CACHE = 'capitulin-infantil-v2-b2610102004';
 const ASSETS = ['./', './index.html', './manifest.json', './icon.svg', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
